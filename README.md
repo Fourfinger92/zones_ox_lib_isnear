@@ -8,7 +8,10 @@ here an example I use in illenium-appearance (these are just the functions/threa
 
 
 
+    
+    local nearZone = nil
 
+    
     local near = false
     local function onnearEnter(data)
         local index = lookupZoneIndexFromID(Zones.Store, data.id)
