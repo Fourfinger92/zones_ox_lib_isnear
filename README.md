@@ -1,7 +1,7 @@
 # zones_ox_lib_isnear
 adds onnearExit() and onnearEnter() functions to zones of ox_lib eg. for drawmarkers
 
-All love and appreciation goes to overextended, they are making the best inventory for FiveM out there!
+All love and appreciation goes to overextended, they are making the best resources for FiveM out there!
 
 here an example I use in illenium-appearance (these are just the functions/threads I changed/added):
 
