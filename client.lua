@@ -1,3 +1,10 @@
+--on top of client.lua
+---@field onnearEnter fun(self: CZone)?
+---@field onnearExit fun(self: CZone)?
+
+
+
+
 
 ---@type table<number, CZone>
 local insideZones = {}
